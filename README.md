@@ -1,4 +1,4 @@
-# Headphone Galia Website  
+# Headphone Galia Website 🎧
 
 This README file provides an overview of the Headphone Showcase website design project, detailing the technologies used and the project folder structure.  
 
@@ -88,7 +88,7 @@ audio_galia_web/
 - **JavaScript**:  
   Add this script at the bottom of your HTML `<body>`:  
   ```html  
- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
   ```  
 ---  
 Enjoy exploring the Headphone Showcase Website! 🎧  
