@@ -1,4 +1,4 @@
-# Headphone Galia Website 🎧
+# Audio Galia Website 🎧
 
 This README file provides an overview of the Headphone Showcase website design project, detailing the technologies used and the project folder structure.  
 
