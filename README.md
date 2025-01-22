@@ -60,7 +60,7 @@ The Headphone Showcase website is a visually appealing frontend design for showc
 audio_galia_web/  
 │  
 ├── index.html                       # Main HTML file  
-├── assets
+├── assets/
 │   ├── css/
 │   │   ├── styles.css               # Custom CSS file  
 │   │   └── responsive_style.css     # Responsive CSS file  
