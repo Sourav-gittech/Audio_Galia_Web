@@ -441,6 +441,11 @@ p {
     cursor: pointer;
 }
 
+.features #showFeatureCard{
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .features .card .icon {
     box-shadow: 0.0625rem 0.25rem 1.25rem rgb(26 26 26 / 9%);
     border-radius: 0;
